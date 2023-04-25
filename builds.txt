@@ -28,7 +28,7 @@ description="Ballz"
 
 name="DragonFenZv4"
 version="1.0"
-url="https://www.dropbox.com/s/gwnjhjuqj74so9p/DragonFenZv4.zip?dl=1"
+url="https://www.dropbox.com/s/q4z2k2wo59zojo7/DragonFenZv4.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="19.4"
